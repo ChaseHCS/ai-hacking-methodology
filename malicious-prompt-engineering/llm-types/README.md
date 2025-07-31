@@ -1,3 +1,5 @@
+# AI-Types and How to exploit them
+
 Each `LLM` or `AI` in an enterprise has a specific use case. These might include:
 
 - Image Generation
